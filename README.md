@@ -164,9 +164,7 @@ La matriz de confusión permite analizar el comportamiento del clasificador para
 
 El análisis completo de la metodología, fundamentos teóricos, experimentos y resultados puede consultarse en:
 
-```text
-reporte_resultados.pdf
-```
+[Reporte técnico](reporte_resultados.pdf)
 
 ---
 
