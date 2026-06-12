@@ -147,7 +147,7 @@ Además, el algoritmo genético permitió explorar múltiples configuraciones de
 
 La siguiente figura muestra la evolución del valor de aptitud durante el proceso evolutivo.
 
-![Evolución del Fitness](images/fits_generacion.png)
+![Evolución del Fitness](fit_generacion.png)
 
 ---
 
@@ -155,7 +155,7 @@ La siguiente figura muestra la evolución del valor de aptitud durante el proces
 
 La matriz de confusión permite analizar el comportamiento del clasificador para cada una de las categorías del dataset.
 
-![Matriz de Confusión](images/confucion_matriz.png)
+![Matriz de Confusión](confucion_matriz.png)
 
 ---
 
